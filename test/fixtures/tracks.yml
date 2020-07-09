@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feed_type: MyString
+  diaper_change: MyString
+  sleep_time: MyString
+  other: MyString
+
+two:
+  feed_type: MyString
+  diaper_change: MyString
+  sleep_time: MyString
+  other: MyString
